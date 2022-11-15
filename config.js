@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "Gửi Bác Nguyên",
-    introTitle: 'Dear Bác Nguyên',
+    titleWeb: "Hallo",
+    introTitle: 'Dear Friend Của Tôi',
     introDesc: `Trang Web Này Dành Riêng Cho M Đóaaa
     Ấn Vô Đi Nhanh Lên!`,
     btnIntro: 'Ô KÊ LUÔN!',
